@@ -5,7 +5,7 @@
 ** Copyright Microsoft, Inc. 1994 - 2000
 ** All Rights Reserved.
 */
-/*dd*/
+/*ddcambios2*/
 SET NOCOUNT ON
 GO
 
